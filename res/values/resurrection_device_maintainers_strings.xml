@@ -45,7 +45,7 @@
   <string name="device_category_vega_title">Vega</string>
   <string name="device_category_jiayu_title">Jiayu</string>
   <string name="device_category_nextbit_title">Nextbit</string>
-
+   
   <string name="device_a610" translatable="false">ZTE BLADE A610</string>
   <string name="device_a610_codename" translatable="false">a610</string>
   <string name="device_a610_maintainer" translatable="false">Roman Yukovsky (mosya234)</string>
@@ -128,7 +128,7 @@
 
   <string name="device_thea" translatable="false">Moto G 2014 LTE</string>
   <string name="device_thea_codename" translatable="false">Thea</string>
-  <string name="device_thea_maintainer" translatable="false">j144df</string>
+  <string name="device_thea_maintainer" translatable="false">Uvneshkumar</string>
 
   <string name="device_potter" translatable="false">Moto G5 Plus</string>
   <string name="device_potter_codename" translatable="false">Potter</string>
@@ -184,7 +184,7 @@
 
   <string name="device_klte" translatable="false">Galaxy S5</string>
   <string name="device_klte_codename" translatable="false">All klte variants</string>
-  <string name="device_klte_maintainer" translatable="false">ScrawnyB</string>
+  <string name="device_klte_maintainer" translatable="false">BlackDeaths,fessmm</string>
 
   <string name="device_k3gxx" translatable="false">Galaxy S5</string>
   <string name="device_k3gxx_codename" translatable="false">K3gxx</string>
@@ -408,7 +408,7 @@
 
   <string name="device_n5" translatable="false">Nexus 5</string>
   <string name="device_n5_codename" translatable="false">Hammerhead</string>
-  <string name="device_n5_maintainer" translatable="false">westcrip</string>
+  <string name="device_n5_maintainer" translatable="false">voidz</string>
 
   <string name="device_n6" translatable="false">Nexus 6</string>
   <string name="device_n6_codename" translatable="false">Shamu</string>
@@ -492,7 +492,7 @@
 
   <string name="device_titan" translatable="false">Moto G 2014</string>
   <string name="device_titan_codename" translatable="false">Titan</string>
-  <string name="device_titan_maintainer" translatable="false">mrunalkaran</string>
+  <string name="device_titan_maintainer" translatable="false">Uvneshkumar</string>
 
   <string name="device_osprey" translatable="false">Moto G 2015 </string>
   <string name="device_osprey_codename" translatable="false">Osprey</string>
@@ -512,15 +512,15 @@
 
   <string name="device_g3_tmo" translatable="false">LG G3 T-Mobile</string>
   <string name="device_g3_tmo_codename" translatable="false">D851</string>
-  <string name="device_g3_tmo_maintainer" translatable="false">Mountaser Halak </string>
+  <string name="device_g3_tmo_maintainer" translatable="false">Mountaser Halak</string>
 
   <string name="device_g3" translatable="false">LG G3 Int</string>
   <string name="device_g3_codename" translatable="false">D855</string>
-  <string name="device_g3_maintainer" translatable="false">Mountaser Halak, Rafael Marchetto </string>
+  <string name="device_g3_maintainer" translatable="false">Mountaser Halak</string>
 
   <string name="device_g3_can" translatable="false">LG G3 Canada</string>
   <string name="device_g3_can_codename" translatable="false">D852</string>
-  <string name="device_g3_can_maintainer" translatable="false"></string>
+  <string name="device_g3_can_maintainer" translatable="false">GamingDevilsCC</string>
 
   <string name="device_att_g3" translatable="false">LG G3 AT&amp;T</string>
   <string name="device_att_g3_codename" translatable="false">D850</string>
@@ -640,7 +640,7 @@
 
   <string name="device_jalebi" translatable="false">Yu Yunique</string>
   <string name="device_jalebi_codename" translatable="false">Jalebi</string>
-  <string name="device_jalebi_maintainer" translatable="false">Sai Charan, Shaik Jaleel (iamsj7)</string>
+  <string name="device_jalebi_maintainer" translatable="false">Shaik Jaleel (iamsj7)</string>
 
   <string name="device_lettuce" translatable="false">Yu Yuphoria</string>
   <string name="device_lettuce_codename" translatable="false">Lettuce</string>
@@ -656,7 +656,7 @@
 
   <string name="device_cancro" translatable="false">Xiaomi MI 3</string>
   <string name="device_cancro_codename" translatable="false">Cancro</string>
-  <string name="device_cancro_maintainer" translatable="false">Nihar Deshpande</string>
+  <string name="device_cancro_maintainer" translatable="false">Shivam Kumar Jha</string>
 
   <string name="device_gemini" translatable="false">Xiaomi MI 5</string>
   <string name="device_gemini_codename" translatable="false">Gemini</string>
@@ -914,4 +914,8 @@
   <string name="device_helium_codename" translatable="false">Helium</string>
   <string name="device_helium_maintainer" translatable="false">ROMFACTORY(SARTHAKMALLA)</string>
    
+  <string name="device_Zuk_Z2_row" translatable="false">Zuk Z2 PRO</string>
+  <string name="device_Zuk_Z2_row_codename" translatable="false"> Zuk_Z2_ROW</string>
+  <string name="device_Zuk_Z2_row_maintainer" translatable="false">Mr.ACAR </string>   
+
 </resources>
