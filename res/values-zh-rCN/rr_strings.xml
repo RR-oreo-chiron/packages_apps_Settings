@@ -1658,4 +1658,14 @@
   <!-- Face unlock auto -->
   <string name="face_auto_unlock_title">面部自动解锁</string>
   <string name="face_auto_unlock_summary">解除脸部锁定后关闭锁定画面。您需要为此启用脸部解锁/可信脸部</string>
+  
+  <!-- Edge gestures -->
+  <string name="edge_gestures_title">全面屏手势</string>
+  <string name="edge_gestures_feedback_duration_title">震动反馈持续时间</string>
+  <string name="edge_gestures_long_press_delay_title">响应长按的时间</string>
+  <string name="edge_gestures_back_category_title">返回手势</string>
+  <string name="edge_gestures_back_edges_title">从...触发返回手势</string>
+  <string name="edge_gestures_landscape_back_edges_title">触发返回手势的区域</string>
+  <string name="edge_gestures_back_screen_percent_title">返回手势只允许触发在屏幕下方的百分比</string>
+  <string name="edge_gestures_back_screen_percent_summary">触发 % 以下的屏幕</string>
 </resources>
