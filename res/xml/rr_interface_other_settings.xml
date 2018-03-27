@@ -64,5 +64,14 @@
             android:summary="@string/keyboard_ime_summury"
             android:fragment="com.android.settings.rr.fragments.IMESettings" />
 
+    <com.android.settings.rr.Preferences.SecureSettingSeekBarPreference
+            android:key="sysui_rounded_size"
+            android:title="Rounded corners"
+            android:min="0"
+            android:max="32"
+            android:defaultValue="20"
+            settings:defaultText="@string/rounded_corners_default_text"
+            settings:units="@string/units_px" />
+
 
 </PreferenceScreen>
