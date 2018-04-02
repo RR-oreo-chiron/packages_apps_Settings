@@ -57,6 +57,16 @@
             settings:units="%"
             android:defaultValue="60" />
 
+        <com.android.settings.rr.Preferences.SecureSettingSwitchPreference
+            android:key="edge_gestures_back_show_ui_feedback"
+            android:title="Show animated feedback on edges when back gesture is used."
+            android:defaultValue="true" />
+
+        <com.android.settings.rr.Preferences.SecureSettingSwitchPreference
+            android:key="edge_gestures_back_use_black_arrow"
+            android:title="Show black back button instead of the white version."
+            android:defaultValue="true" />
+
     </PreferenceCategory>
 
 </PreferenceScreen>
